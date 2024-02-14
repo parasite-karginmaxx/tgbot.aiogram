@@ -1,0 +1,5 @@
+python -m venv venv
+./venv/Scripts/activate.bat
+pip install aiogram==2.*
+pip install python-dotenv
+python main.py
